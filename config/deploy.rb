@@ -7,8 +7,8 @@ set :cookbook, {
   :ssh_port    => 8100,      # Or any unused port above 1024 (best practice)
   
   :production => {
-    :domain        => 'studicious.com',
-    :other_domains => [ 'www.studicious.com', 'stu.dicio.us' ]
+    :domain        => 'studicious.wintoni.us',
+    :other_domains => [ 'studicious.com', 'www.studicious.com', 'stu.dicio.us' ]
   }
 }
 
